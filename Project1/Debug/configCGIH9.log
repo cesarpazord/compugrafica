@@ -1,0 +1,29 @@
+﻿  KeyFrames.cpp
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(290,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(330,20): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(331,20): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(332,20): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(260,18): warning C4101: 'EBO': variable local sin referencia
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(512,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(517,18): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(522,18): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(527,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(695,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(696,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(700,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(701,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(703,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\configCGIH9\KeyFrames.cpp(704,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  configCGIH9.vcxproj -> C:\Users\CGIH9\Desktop\cgih\copiaCGHIG20262\Debug\configCGIH9.exe
